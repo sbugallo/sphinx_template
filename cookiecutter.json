@@ -1,0 +1,26 @@
+{
+	"repository_name": "sample_doc",
+	"title": "Sample Title",
+	"description": "One line description of the project",
+	"author": "Sergio Bugallo",
+	"github_username": "sbugallo",
+	"language": ["en", "es"],
+	"html_theme": [
+		"sphinx_rtd_theme",
+		"python_docs_theme",
+		"flask",
+		"yeen",
+		"insegel",
+		"alabaster",
+		"classic",
+		"sphinxdoc",
+		"scrolls",
+		"agogo",
+		"traditional",
+		"nature",
+		"haiku",
+		"pyramid",
+		"bizstyle"
+	],
+	"latex_toplevel_sectioning": ["part", "chapter", "section"]
+}
