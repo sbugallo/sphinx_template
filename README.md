@@ -12,5 +12,5 @@
 Simply run:
 
 ```bash
-cookiecutter git+ssh://git@github.com:sbugallo/sphinx_template.git
+cookiecutter https://github.com/sbugallo/sphinx_template.git
 ```

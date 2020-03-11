@@ -122,7 +122,8 @@ latex_elements = {
 \usepackage[export]{adjustbox}% http://ctan.org/pkg/adjustbox
 \let\oldincludegraphics\includegraphics
 \renewcommand{\includegraphics}[2][]{%
-  \oldincludegraphics[#1,min width=0.9\linewidth]{#2}}
+  \oldincludegraphics[#1,min width=0.9\linewidth]{#2}
+}
 ''',
     'figure_align': 'H'
 }
