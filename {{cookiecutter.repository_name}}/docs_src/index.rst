@@ -2,7 +2,7 @@
 Index
 =====
 
-{%- if cookiecutter.language == "en" -%}
+{% if cookiecutter.language == "en" %}
 
 .. important::
 
